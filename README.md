@@ -20,9 +20,13 @@ Interactive UI Behavior
 🚀 Features
 
 ✔ Random color generation on page refresh
+
 ✔ Individual color change on box click
+
 ✔ Clean and responsive UI
+
 ✔ Lightweight and beginner-friendly project
+
 ✔ Demonstrates core JavaScript interactivity
 
 🛠 Technologies Used
