@@ -1,0 +1,20 @@
+ body {
+     background-color: rgb(120, 107, 107);
+ }
+
+ .container {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     gap: 23px;
+ }
+
+ .box {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 70px;
+     width: 85px;
+     border: 2px solid black;
+
+ }
