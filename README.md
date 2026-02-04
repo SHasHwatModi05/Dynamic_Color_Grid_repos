@@ -8,7 +8,7 @@ This is a simple and interactive web project where the colors of boxes change dy
 
 🖱️ On Click – Clicking on any box instantly changes its color to a newly generated random color.
 
-The project is built using HTML, CSS, and JavaScript and demonstrates fundamental front-end development concepts such as:
+The project is built using HTML, CSS, and JavaScript and demonstrates fundamental front-end development concepts such as::
 
 ➡️ DOM Manipulation
 
