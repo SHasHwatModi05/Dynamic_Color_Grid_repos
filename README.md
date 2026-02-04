@@ -9,13 +9,13 @@ This is a simple and interactive web project where the colors of boxes change dy
 
 The project is built using HTML, CSS, and JavaScript and demonstrates fundamental front-end development concepts such as:
 
-DOM Manipulation
+➡️ DOM Manipulation
 
-JavaScript Event Handling
+➡️ JavaScript Event Handling
 
-Random Color Generation
+➡️ Random Color Generation
 
-Interactive UI Behavior
+➡️ Interactive UI Behavior
 
 🚀 Features
 
@@ -31,8 +31,8 @@ Interactive UI Behavior
 
 🛠 Technologies Used
 
-HTML – Structure of the webpage
+➡️ HTML – Structure of the webpage
 
-CSS – Styling and layout
+➡️ CSS – Styling and layout
 
-JavaScript – Logic for random colors and click events
+➡️ JavaScript – Logic for random colors and click events
