@@ -29,3 +29,14 @@ Array.from(boxes).forEach(e => {
     })
 })
 
+// colors are changing automatically on 2s interval basis //
+setInterval(() => {
+    Array.from(boxes).forEach(box => {
+        box.style.backgroundColor = getRandomColor()
+        box.style.color = getRandomColor()
+    })
+}, 2000);
+
+
+
+
