@@ -1,6 +1,6 @@
 🟦 Dynamic Color Changer Boxes
 
-📌 Project Description
+📌 Project Description :
 
 This is a simple and interactive web project where the colors of boxes change dynamically in two ways:
 
@@ -18,7 +18,7 @@ The project is built using HTML, CSS, and JavaScript and demonstrates fundamenta
 
 ➡️ Interactive UI Behavior
 
-🚀 Features
+🚀 Features :
 
 ✔ Random color generation on page refresh
 
@@ -30,7 +30,7 @@ The project is built using HTML, CSS, and JavaScript and demonstrates fundamenta
 
 ✔ Demonstrates core JavaScript interactivity
 
-🛠 Technologies Used
+🛠 Technologies Used :
 
 ➡️ HTML – Structure of the webpage
 
