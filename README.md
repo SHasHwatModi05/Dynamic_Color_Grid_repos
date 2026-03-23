@@ -22,7 +22,7 @@ The project is built using HTML, CSS, and JavaScript and demonstrates fundamenta
 
 🔗 Check the project live here:
 
-👉 https://shashwatmodi05.github.io/Dynamic_Color_Grid_repos/
+👉 https://dynamiccolorsgrid.netlify.app/
 
 🚀 Features :
 
